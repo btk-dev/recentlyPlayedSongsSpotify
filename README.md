@@ -10,3 +10,9 @@ Copy this link into the terminal which will parse the link for relevant ID and a
 
 The API wrapper includes functions for retrieving songs as well as their features and analysis from Spotify.
 This is all added to a local CouchDB database with credentials placed in a different python file of authentication strings.
+
+Markov Chain idea and code outline found at:
+https://blog.upperlinecode.com/making-a-markov-chain-poem-generator-in-python-4903d0586957
+
+Lyrics retrieval done with Lyrics_Extractor found at:
+https://pypi.org/project/lyrics-extractor/
